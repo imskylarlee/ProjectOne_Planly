@@ -1,0 +1,2 @@
+PLANLY
+This application acts as a way for users to track their success while creating new, beneficial habits. The portion of the app displayed in this document is the part of the app where users deposit the daily habits they wish to achieve (similar to a check list). With further development of this app, I would like to create documentation features, that allow users to check their habitual growth of weeks, months and years along with some other useful features. 
